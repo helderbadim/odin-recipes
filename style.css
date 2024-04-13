@@ -1,0 +1,46 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-size: 20px;
+}
+
+ul {
+    font-size: 20px;
+    text-align: left;
+}
+
+ol {
+    font-size: 20px;
+    text-align:left;
+}
+
+.Recipe {
+    font-size: 25px;
+    background-color: #c0dfe7;
+    text-align: center;
+}
+
+.Ingredients {
+    font-size: 20px;
+    background-color: #c0dfe7;
+    text-align: center;
+}
+
+.Preparation {
+    font-size: 20px;
+    background-color: #c0dfe7;
+    text-align: center;
+}
+
+.RecipiesList {
+    font-size: 20px;
+    background-color: #c0dfe7;
+    font-weight: 700;
+}
+
+.title {
+    background-color: #c0dfe7;
+    text-align: center;
+}
