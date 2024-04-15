@@ -1,46 +1,91 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
+    background-color: antiquewhite;
 }
 
 p {
     font-size: 20px;
+    margin: 30px;
+    text-align: justify;
+
 }
 
-ul {
+.IngredientsList {
     font-size: 20px;
+    margin: 30px;
     text-align: left;
 }
 
 ol {
     font-size: 20px;
-    text-align:left;
+    margin:30px;
+}
+
+h4{
+    margin: 30px;
 }
 
 .Recipe {
     font-size: 25px;
-    background-color: #c0dfe7;
+    background-color:  hwb(0 21% 78%);
     text-align: center;
+    color: white;
+    box-sizing: border-box;
+    height: 60px;
+    padding-top: 15px;
+    margin: 30px;
 }
 
 .Ingredients {
     font-size: 20px;
-    background-color: #c0dfe7;
+    background-color:  hwb(0 21% 78%);
     text-align: center;
+    color: white;
+    margin: 30px;
 }
 
 .Preparation {
     font-size: 20px;
-    background-color: #c0dfe7;
+    background-color:  hwb(0 21% 78%);
     text-align: center;
+    color: white;
+    margin: 30px;
 }
 
 .RecipiesList {
     font-size: 20px;
-    background-color: #c0dfe7;
+    background-color: antiquewhite;
     font-weight: 700;
+    text-align: center;
+    color: antiquewhite;
+    margin: 30px;
 }
 
 .title {
-    background-color: #c0dfe7;
+    background-color: hwb(0 21% 78%);
     text-align: center;
+    height: 40px;
+    padding-top: 30px;
+    padding-bottom: 5px;
+    color: white;
+    margin-bottom: 0px; 
+}
+
+.subtitle {
+    background-color: hwb(0 21% 78%);
+    text-align: center;
+    box-sizing: border-box;
+    height:max-content;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    color: white;
+    margin-top: 0%;
+
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 20px;
 }
